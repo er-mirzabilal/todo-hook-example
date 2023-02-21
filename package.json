@@ -1,0 +1,21 @@
+{
+  "name": "react-hooks-usetodos-custom-hook",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": ["todos", "hooks", "react"],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.6.2",
+    "react": "next",
+    "react-dom": "next",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

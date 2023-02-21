@@ -1,0 +1,27 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  width: 50%;
+  margin-left: 20%;
+}
+
+li {
+  box-sizing: border-box;
+  padding: 10px 5px;
+  background-color: #cfd8dc;
+  border-bottom: 1px solid #90a4ae;
+}
+
+li.done {
+  text-decoration: line-through;
+  color: red;
+  opacity: 0.3;
+}
